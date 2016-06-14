@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace StMS
 {
-    public partial class Form1 : Form
+    public partial class StudentDetails : Form
     {
-        public Form1()
+        public StudentDetails()
         {
             InitializeComponent();
         }
